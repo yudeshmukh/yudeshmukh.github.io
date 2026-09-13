@@ -1,8 +1,0 @@
-#Options +Indexes
-#IndexOptions FancyIndexing SuppressHTMLPreamble
-#SuppressLastModified SuppressSize
-
-HeaderName .hearder.html
-
-AddIcon /icons/folder.gif ^^DIRECTORY
-AddIcon /icons/unknown.gif ^^DEFAULT
